@@ -1,0 +1,5 @@
+header{background-color: orange;border-radius: 15px 15px 15px 15px;padding: 10px 500px;}
+section{background-color: orange;border-radius: 15px 15px 15px 15px;float: left;padding: 100px 200px;margin: 5px 5px}
+aside{background-color: orange;border-radius: 15px 15px 15px 15px;float: right; padding: 100px 50px;margin: 5px 5px}
+footer{background-color: orange;border-radius: 15px 15px 15px 15px;clear: both;padding: 10px 500px;margin: 5px 5px}
+

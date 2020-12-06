@@ -1,0 +1,9 @@
+externo 
+<link rel="stylesheet" type="text/css" rel="nomedoarquivo.css">
+
+interno
+<style type="text/css">
+</style>
+
+inline
+<.... style="...">
